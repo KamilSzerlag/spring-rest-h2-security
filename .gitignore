@@ -1,6 +1,16 @@
-
+# Eclipse
+.classpath
+.project
+.settings/
+ 
+# Intellij
 .idea/
-target/
-moviebattle.iml
-pom.xml
+*.iml
+*.iws
+ git
+# Mac
+.DS_Store
+ 
+# Maven
 log/
+target/
